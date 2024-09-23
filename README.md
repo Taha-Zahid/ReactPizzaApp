@@ -1,3 +1,9 @@
+# Component Tree - Pizza Haven
+
+![ComponentTree_PizzaProject drawio](https://github.com/user-attachments/assets/f4632b48-72c8-4acd-8876-2822bb271aa7)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
